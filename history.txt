@@ -81,3 +81,4 @@
 2025-10-27 05:42:40 fix async issue
 2025-03-29 00:10:41 UI improvements
 2025-03-23 01:00:02 update API keys
+2025-07-10 04:31:08 patch memory leak
