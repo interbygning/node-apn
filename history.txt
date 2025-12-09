@@ -42,3 +42,4 @@
 2025-01-28 04:57:23 cleanup dependencies
 2025-08-10 22:33:54 update LICENSE
 2025-05-09 17:44:55 minor tweaks
+2025-12-09 05:37:53 fix crash issue
